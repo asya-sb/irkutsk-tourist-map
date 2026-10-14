@@ -35,10 +35,8 @@ Inkskape
 Примерное время прохождения маршрута: ~5 часов.
 
 Файлы
-tourist_map.qgz — проект QGIS
+Irkutsk_tour_map.qgz — проект QGIS
 
 tour_map.jpeg — изображение для превью
-
-screenshots/ — скриншоты
 
 README.md — описание проекта
